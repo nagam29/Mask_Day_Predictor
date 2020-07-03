@@ -7,8 +7,14 @@ We apply machine learning and Natural Language Analysis to the words in tweets t
 With this application at hand, you no longer need to guess whether you should wear a mask that day or whether you should stay home. In other words, Mask Day Predictor gives you the power to make informed decision about your activities, which also helps you build your own life again in the world with new normal. 
 
 # Meet the Team
-## Nithya Narayanan
-(Bio to come)
+## Nithya Narayanan, Electronics Engineer, B.Eng(Hons) & Certificate in Data Analytics and Visualization
+
+![Nithya Narayanan](NithyaNarayanan.jpg)
+
+Nithya is an accomplished Engineer with B.Eng(Hons) Electronics Engineering degree and a Certificate in Data Analytics and Visualization from the University of California, San Diego. Additional Certificates in Software Testing, UX Designing, and Scrum-Product Owner. Highly adept and proactive professional with proven technical track record of successful implementations of software testing, agile product design, and management solutions, and best practices.
+
+Nithya is a talented team-oriented leader capable of bringing cross-functional teams together as well as driving negotiations with stakeholders consistently delivering 100% successful process improvement implementations. Passionate about building and delivering quality SaaS solutions and products as a Data Science professional by leveraging my design, product, test and data analysis skills using Python, Pandas, Javascript, D3.js, and Tableau.
+
 
 ## Mika Nagamine, Ph.D.
 
